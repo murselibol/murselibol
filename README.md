@@ -1,6 +1,5 @@
 <h3>👋 Hi, I'm Mürsel!</h3>
 
-- 🚀 I am currently interested in and actively learning iOS development.
 - 💼 I work as a Web Frontend Developer at Naylalabs.
 
 <h6>📫 Connect with me</h6>
