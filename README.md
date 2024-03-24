@@ -1,6 +1,6 @@
 <h3>👋 Hi, I'm Mürsel!</h3>
 
-- 💼 I work as a Web Frontend Developer at Naylalabs.
+💼 I work as a Web Frontend Developer at Naylalabs.
 
 <h6>📫 Connect with me</h6>
 
